@@ -1,0 +1,53 @@
+Item Name,Quantity,Price (₹),Category
+Rice (Basmati),1 kg,120,Grocery
+Wheat Flour (Atta),1 kg,45,Grocery
+Toor Dal (Arhar Dal),1 kg,140,Grocery
+Moong Dal,1 kg,130,Grocery
+Sugar,1 kg,45,Grocery
+Salt (Iodized),1 kg,25,Grocery
+Cooking Oil (Sunflower),1 L,160,Grocery
+Mustard Oil,1 L,170,Grocery
+Tea Powder,250 g,130,Grocery
+Coffee,200 g,180,Grocery
+Masala Powder (Mixed),100 g,60,Grocery
+Detergent Powder,1 kg,70,Grocery
+Dish Wash Liquid,500 ml,60,Grocery
+Onion,1 kg,40,Vegetable
+Tomato,1 kg,35,Vegetable
+Potato,1 kg,30,Vegetable
+Carrot,1 kg,50,Vegetable
+Beans,1 kg,70,Vegetable
+Cabbage,1 pc,40,Vegetable
+Cauliflower,1 pc,60,Vegetable
+Green Chilli,250 g,25,Vegetable
+Coriander Leaves,100 g,15,Vegetable
+Spinach,1 bunch,25,Vegetable
+Brinjal (Eggplant),1 kg,40,Vegetable
+Capsicum,1 kg,80,Vegetable
+Ginger,250 g,40,Vegetable
+Garlic,250 g,30,Vegetable
+Apple,1 kg,180,Fruit
+Banana,12 pcs,60,Fruit
+Orange,1 kg,100,Fruit
+Grapes,1 kg,120,Fruit
+Mango (Seasonal),1 kg,150,Fruit
+Papaya,1 pc,60,Fruit
+Watermelon,1 pc,80,Fruit
+Pomegranate,1 kg,180,Fruit
+Milk,1 L,60,Food & Dairy
+Curd,500 g,40,Food & Dairy
+Butter,500 g,280,Food & Dairy
+Bread,400 g,45,Food & Dairy
+Paneer,1 kg,350,Food & Dairy
+Eggs,6 pcs,45,Food & Dairy
+Noodles,1 pack,30,Food & Dairy
+Biscuits,1 pack,20,Food & Dairy
+Chips,1 pack,20,Food & Dairy
+Instant Coffee,100 g,120,Food & Dairy
+Turmeric Powder,100 g,25,Spice
+Red Chilli Powder,100 g,45,Spice
+Cumin Seeds,100 g,35,Spice
+Mustard Seeds,100 g,25,Spice
+Garam Masala,100 g,60,Spice
+Black Pepper,100 g,80,Spice
+Coriander Powder,100 g,35,Spice
